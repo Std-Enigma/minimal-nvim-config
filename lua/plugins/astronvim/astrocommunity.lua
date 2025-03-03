@@ -14,7 +14,6 @@ return {
 	{ import = "astrocommunity.lsp.inc-rename-nvim" },
 	{ import = "astrocommunity.lsp.lsp-signature-nvim" },
 	{ import = "astrocommunity.scrolling.vim-smoothie" },
-	{ import = "astrocommunity.editing-support.neogen" },
 	{ import = "astrocommunity.editing-support.stickybuf-nvim" },
 
 	-- Colorschemes
